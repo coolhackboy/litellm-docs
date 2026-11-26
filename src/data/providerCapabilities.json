@@ -733,6 +733,12 @@
       "embeddings"
     ]
   },
+  "providers/poyo": {
+    "prefix": "poyo",
+    "capabilities": [
+      "chat"
+    ]
+  },
   "providers/predibase": {
     "prefix": "predibase",
     "capabilities": [

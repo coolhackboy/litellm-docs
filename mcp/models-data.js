@@ -100,7 +100,7 @@ const DISPLAY_NAMES = dict(Object.entries({
   openinfer: 'OpenInfer', openrouter: 'OpenRouter', opensandbox: 'OpenSandbox', opensearch: 'Amazon OpenSearch',
   ovhcloud: 'OVHCloud AI Endpoints', parallel_ai: 'Parallel AI', parasail: 'Parasail', perplexity: 'Perplexity AI',
   perplexity_orchestrator: 'Perplexity Orchestrator',
-  petals: 'Petals', pg_vector: 'PG Vector', pinstripes: 'Pinstripes', poe: 'Poe', predibase: 'Predibase',
+  petals: 'Petals', pg_vector: 'PG Vector', pinstripes: 'Pinstripes', poe: 'Poe', poyo: 'PoYo', predibase: 'Predibase',
   prism: 'Prism', publicai: 'PublicAI', pydantic_ai_agents: 'Pydantic AI Agents', qwen_ai_platform: 'Qianwen AI Platform', qwencloud: 'QwenCloud',
   ragflow: 'RAGFlow', recraft: 'Recraft', reducto: 'Reducto', refuseless: 'Refuseless', reka: 'Reka',
   replicate: 'Replicate', resetdata: 'ResetData', runwayml: 'RunwayML', s3_vectors: 'AWS S3 Vectors', sagemaker: 'AWS - Sagemaker',

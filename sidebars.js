@@ -2017,6 +2017,7 @@ const providersSidebar = {
       "providers/perplexity_embedding",
       "providers/perplexity_orchestrator",
     ] },
+    "providers/poyo",
     "providers/predibase",
     "providers/prism",
     "providers/publicai",
